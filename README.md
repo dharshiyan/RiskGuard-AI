@@ -49,7 +49,6 @@ Risk-Aware Intelligent Multi-Camera Surveillance Framework
 <img src="https://img.shields.io/badge/Research-IEEE%20Project-darkred?style=for-the-badge"/>
 
 </p>
----
 
 # 📖 Project Overview
 
