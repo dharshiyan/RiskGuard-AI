@@ -49,7 +49,6 @@ Risk-Aware Intelligent Multi-Camera Surveillance Framework
 <img src="https://img.shields.io/badge/Research-IEEE%20Project-darkred?style=for-the-badge"/>
 
 </p>
----
 
 # 📖 Project Overview
 
@@ -136,6 +135,7 @@ RiskGuard-AI continuously asks:
 - Should security personnel intervene?
 
 This shift from **passive video monitoring** to **active AI-assisted decision making** forms the core philosophy of the project.
+<<<<<<< HEAD
 
 ---
 
@@ -748,3 +748,5 @@ Unlike conventional surveillance systems, RiskGuard-AI introduces several novel 
 | 💡 Explainable AI | Explains every generated alert with interpretable reasoning. |
 | ⚡ Modular Architecture | Independent AI engines enable easy upgrades and scalability. |
 | 🚀 Edge-to-Cloud Deployment | Designed for laptops, edge devices, and enterprise GPU servers. |
+=======
+>>>>>>> f30b5dd0b2f7c6dcec54282adabc9eebd87e2546
