@@ -25,3 +25,8 @@ Risk-Aware Intelligent Multi-Camera Surveillance Framework
 <b>SentinelAI</b>
 
 </p>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=950&lines=Risk-Aware+AI+Surveillance;Real-Time+Multi-Camera+Intelligence;Selective+Suspicious+Person+Tracking;Cross-Camera+Person+Re-Identification;Temporal+Behavior+Understanding;Dynamic+Risk+Assessment;Explainable+Threat+Analysis;Built+for+Research+%7C+Production+%7C+Edge+AI"/>
+
+</p>
