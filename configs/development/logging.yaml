@@ -1,0 +1,16 @@
+logging:
+  level: "INFO"
+
+  format: "%(asctime)s | %(levelname)s | %(name)s | %(message)s"
+
+  console:
+    enabled: true
+
+  file:
+    enabled: true
+    directory: "logs"
+    filename: "riskguard.log"
+
+  rotation:
+    max_bytes: 10485760
+    backup_count: 5
