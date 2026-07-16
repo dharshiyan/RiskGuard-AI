@@ -1,0 +1,17 @@
+# ==========================
+# Core Scientific Computing
+# ==========================
+numpy
+scipy
+pandas
+matplotlib
+pillow
+
+# ==========================
+# Utilities
+# ==========================
+tqdm
+pyyaml
+python-dotenv
+rich
+loguru

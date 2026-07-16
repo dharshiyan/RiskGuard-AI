@@ -1,0 +1,38 @@
+# ==========================================================
+# RiskGuard-AI (SentinelAI)
+# Global Application Configuration
+# Environment: Development
+# ==========================================================
+
+app:
+  name: "RiskGuard-AI"
+  codename: "SentinelAI"
+  version: "0.1.0"
+
+environment:
+  mode: "development"
+  debug: true
+
+runtime:
+  device: "cuda"
+  gpu_id: 0
+  mixed_precision: false
+  deterministic: true
+  random_seed: 42
+
+performance:
+  num_workers: 4
+  pin_memory: true
+
+paths:
+  logs: "logs"
+  outputs: "outputs"
+  models: "models"
+  data: "data"
+
+monitoring:
+  enable_metrics: true
+  enable_profiling: false
+
+experiment:
+  name: "baseline"
