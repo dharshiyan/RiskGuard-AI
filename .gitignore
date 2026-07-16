@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Logs
+logs/
+
+# Outputs
+outputs/
+
+# Model Weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Dataset
+data/raw/
+data/processed/
+data/cache/
+
+# Temporary Files
+*.tmp
+*.bak
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test Assets
+assets/sample.jpg
+assets/sample.jpeg
+assets/sample.png
+assets/sample.mp4

@@ -7,7 +7,7 @@ requires-python = ">=3.11,<3.12"
 dependencies = [
     "loguru>=0.7.3",
     "matplotlib>=3.11.0",
-    "numpy>=2.4.6",
+    "numpy>=2.3.0,<3.0",
     "opencv-python>=5.0.0.93",
     "pandas>=3.0.3",
     "pillow>=12.3.0",
@@ -15,5 +15,12 @@ dependencies = [
     "pyyaml>=6.0.3",
     "rich>=15.0.0",
     "scipy>=1.17.1",
+    "torch>=2.13.0",
+    "torchaudio>=2.11.0",
+    "torchvision>=0.28.0",
     "tqdm>=4.68.4",
+    "ultralytics>=8.4.96",
 ]
+
+[[tool.uv.index]]
+url = "https://download.pytorch.org/whl/cu128"

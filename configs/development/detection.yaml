@@ -1,0 +1,15 @@
+detection:
+  model:
+    name: "yolov8n.pt"
+    device: "cuda"
+    confidence: 0.30
+    iou: 0.45
+
+  classes:
+    person_only: true
+    person_class_id: 0
+
+  inference:
+    image_size: 640
+    half: false
+    verbose: false
